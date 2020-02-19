@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Click-out-80s/static/css/main.da03f0fb.chunk.css",
-    "main.js": "/Click-out-80s/static/js/main.b7cefd07.chunk.js",
-    "main.js.map": "/Click-out-80s/static/js/main.b7cefd07.chunk.js.map",
+    "main.js": "/Click-out-80s/static/js/main.c01ee338.chunk.js",
+    "main.js.map": "/Click-out-80s/static/js/main.c01ee338.chunk.js.map",
     "runtime-main.js": "/Click-out-80s/static/js/runtime-main.c9050aaf.js",
     "runtime-main.js.map": "/Click-out-80s/static/js/runtime-main.c9050aaf.js.map",
     "static/js/2.8b3cd8b0.chunk.js": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js",
     "static/js/2.8b3cd8b0.chunk.js.map": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js.map",
     "index.html": "/Click-out-80s/index.html",
-    "precache-manifest.6ecd7d03f337f661db21f0dcffbc8f0b.js": "/Click-out-80s/precache-manifest.6ecd7d03f337f661db21f0dcffbc8f0b.js",
+    "precache-manifest.a1d4dd1d1c59693e6de319583dd7e271.js": "/Click-out-80s/precache-manifest.a1d4dd1d1c59693e6de319583dd7e271.js",
     "service-worker.js": "/Click-out-80s/service-worker.js",
     "static/css/main.da03f0fb.chunk.css.map": "/Click-out-80s/static/css/main.da03f0fb.chunk.css.map",
     "static/js/2.8b3cd8b0.chunk.js.LICENSE.txt": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c9050aaf.js",
     "static/js/2.8b3cd8b0.chunk.js",
     "static/css/main.da03f0fb.chunk.css",
-    "static/js/main.b7cefd07.chunk.js"
+    "static/js/main.c01ee338.chunk.js"
   ]
 }

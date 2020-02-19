@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Click-out-80s/static/css/main.da03f0fb.chunk.css",
+    "main.js": "/Click-out-80s/static/js/main.8c7eb2f2.chunk.js",
+    "main.js.map": "/Click-out-80s/static/js/main.8c7eb2f2.chunk.js.map",
+    "runtime-main.js": "/Click-out-80s/static/js/runtime-main.c9050aaf.js",
+    "runtime-main.js.map": "/Click-out-80s/static/js/runtime-main.c9050aaf.js.map",
+    "static/js/2.8b3cd8b0.chunk.js": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js",
+    "static/js/2.8b3cd8b0.chunk.js.map": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js.map",
+    "index.html": "/Click-out-80s/index.html",
+    "precache-manifest.1564ea12019bb5091e556c0aed1eb46b.js": "/Click-out-80s/precache-manifest.1564ea12019bb5091e556c0aed1eb46b.js",
+    "service-worker.js": "/Click-out-80s/service-worker.js",
+    "static/css/main.da03f0fb.chunk.css.map": "/Click-out-80s/static/css/main.da03f0fb.chunk.css.map",
+    "static/js/2.8b3cd8b0.chunk.js.LICENSE.txt": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js.LICENSE.txt",
+    "static/media/gameover.css": "/Click-out-80s/static/media/winner.72d372c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9050aaf.js",
+    "static/js/2.8b3cd8b0.chunk.js",
+    "static/css/main.da03f0fb.chunk.css",
+    "static/js/main.8c7eb2f2.chunk.js"
+  ]
+}

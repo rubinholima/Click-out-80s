@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e07f927ca7709855d34c6d1c5e498f3",
+    "revision": "3fc883d8da27e57dfffa4a8e9280853f",
     "url": "/Click-out-80s/index.html"
   },
   {
-    "revision": "cff1b2979044c0a5f6d9",
+    "revision": "74ca7591d395206f7549",
     "url": "/Click-out-80s/static/css/main.da03f0fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Click-out-80s/static/js/2.8b3cd8b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cff1b2979044c0a5f6d9",
-    "url": "/Click-out-80s/static/js/main.8c7eb2f2.chunk.js"
+    "revision": "74ca7591d395206f7549",
+    "url": "/Click-out-80s/static/js/main.b7cefd07.chunk.js"
   },
   {
     "revision": "283619b8e68865e2170b",

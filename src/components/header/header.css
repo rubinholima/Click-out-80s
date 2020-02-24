@@ -1,0 +1,16 @@
+.bg {
+  background: black;
+  background-image: linear-gradient(#2d9bec .1em, transparent .1em), linear-gradient(90deg,#2d9bec .1em, transparent .1em);
+  background-size: .618rem .618rem;
+}
+
+.logo {
+  background: -webkit-linear-gradient(#fcb559, #fc5300);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 82px;
+}
+
+.desc {
+  color: white;
+}

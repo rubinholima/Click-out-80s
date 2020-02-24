@@ -1,0 +1,9 @@
+.navigation {
+  background: black;
+}
+
+.navigation,
+a {
+  text-decoration: none !important;
+  color: #2d9bec;
+}
